@@ -13,7 +13,7 @@ http://fr.learnlayout.com/clear.html
 
 http://fr.learnlayout.com/clearfix.html
 
-https://www.jetbrains.com/shop/eform/students
+http://pierre-giraud.com/html-css/cours-complet/cours-html-css-presentation.php
 
 
 #TP :
