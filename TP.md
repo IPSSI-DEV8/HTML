@@ -17,6 +17,6 @@ https://www.jetbrains.com/shop/eform/students
 
 
 #TP :
-    Faire le zoning en HTML-CSS avec des div stylisé avec des couleurs d'arrière plan
+    Faire le zoning en HTML-CSS avec des div stylisé
 
 https://manurenaux.wp.mines-telecom.fr/files/2014/05/zoning.png
