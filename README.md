@@ -1,3 +1,11 @@
+#HTML
+L’Hypertext Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web.
+
+##Les balises en HTML
+
+
+
+
 <tagname nameattrs="valueattrs" >Content</tagname>
 http://www.w3schools.com/tags/ref_html_dtd.asp
 https://www.w3.org/TR/html/
