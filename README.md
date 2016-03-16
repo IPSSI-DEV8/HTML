@@ -11,7 +11,7 @@ L’élément `p` ci-dessous est constitué d’une balise ouvrante, d’un bali
 
 <img src="img/element-p-exemple-html.png" height="198" width="694">
 
-L’élément br ci-dessous (servant à créer un retour à la ligne) n’est lui constitué que d’une balise orpheline.
+L’élément `br` ci-dessous (servant à créer un retour à la ligne) n’est lui constitué que d’une balise orpheline.
 
 <img src="img/element-br-exemple-html.png" height="198" width="694">
 
@@ -21,11 +21,43 @@ L’élément br ci-dessous (servant à créer un retour à la ligne) n’est lu
 
 Finalement, la balise ouvrante d’un élément HTML peut contenir des attributs, qui sont parfois même obligatoires.
 
-L’élément img, servant à insérer une image dans une page HTML, va lui demander deux attributs : src et alt.
+L’élément `img`, servant à insérer une image dans une page HTML, va lui demander deux attributs : `src` et `alt`.
 
 <img src="img/element-img-exemple-html.png" height="198" width="694">
 
-L'attribut src va prendre comme valeur le nom et l’emplacement de l’image tandis que l'attribut alt va afficher un texte alternatif dans le cas où l’image ne serait pas disponible (pour les non voyants par exemple).
+L'attribut `src` va prendre comme valeur le nom et l’emplacement de l’image tandis que l'attribut `alt` va afficher un texte alternatif dans le cas où l’image ne serait pas disponible (pour les non voyants par exemple).
+
+##Structure
+
+###Structure minimale d’une page en HTML
+
+Vous devez toujours faire votre maximum pour que vos pages de code soient valides. Cela améliorera votre référencement et limitera grandement les problèmes d’ergonomie et les bugs de votre site.
+
+<img src="img/structure-minimale-page-html.png" height="224" width="694">
+
+####Le doctype
+
+Tout d’abord, nous devrons toujours démarrer une page HTML en précisant le doctype de notre document. Comme son nom l’indique, le `doctype` sert à préciser le type du document.
+
+####L’élément html
+
+Après le document, nous devons également mentionner un élément `html`. Cet élément est composé de deux balises `<html>` et `</html>` et va représenter notre page HTML en soi.
+
+####Les éléments head et body
+
+L’élément `head` va contenir des meta informations relatives à la page, c’est-à-dire des informations générales dont la page va avoir besoin pour fonctionner, comme le titre de la page ou encore le type d’encodage utilisé.
+
+L’élément `body` va lui contenir tout le contenu « visible » de la page : les textes, images, liens, vidéos, etc.
+
+####Les éléments title et meta
+
+L’élément `title`, qui va contenir le titre de la page et un élément `meta` avec son attribut charset qui va nous permettre de définir l’encodage de la page.
+
+L’encodage est très important pour que tous nos caractères, notamment les accents, s’affichent normalement dans notre page. Pour nous autres, français, nous utiliserons la valeur `utf-8`.
+
+####L’imbrication d’éléments
+
+<img src="img/imbrication-elements-schema-html.png" height="250" width="694">
 
 http://www.w3schools.com/tags/ref_html_dtd.asp
 https://www.w3.org/TR/html/
