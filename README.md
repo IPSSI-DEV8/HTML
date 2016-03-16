@@ -1,9 +1,19 @@
 #HTML
 L’Hypertext Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web.
 
-##Les balises en HTML
+##Les bases en HTML
 
+###Les balises en HTML
 
+Un élément HTML peut être soit constitué d’une paire de balises et d’un contenu, soit (plus rarement) d’une balise unique qu’on dit alors orpheline ou auto-fermante.
+
+L’élément `p` ci-dessous est constitué d’une balise ouvrante, d’un balise fermante (notez la présence du slash), et d'un contenu (textuel) entre les balises.
+
+<img src="img/element-p-exemple-html.png" height="198" width="694">
+
+L’élément br ci-dessous (servant à créer un retour à la ligne) n’est lui constitué que d’une balise orpheline.
+
+<img src="img/element-br-exemple-html.png" height="198" width="694">
 
 
 <tagname nameattrs="valueattrs" >Content</tagname>
