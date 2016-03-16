@@ -16,7 +16,17 @@ L’élément br ci-dessous (servant à créer un retour à la ligne) n’est lu
 <img src="img/element-br-exemple-html.png" height="198" width="694">
 
 
-<tagname nameattrs="valueattrs" >Content</tagname>
+
+###Les attributs en HTML
+
+Finalement, la balise ouvrante d’un élément HTML peut contenir des attributs, qui sont parfois même obligatoires.
+
+L’élément img, servant à insérer une image dans une page HTML, va lui demander deux attributs : src et alt.
+
+<img src="img/element-img-exemple-html.png" height="198" width="694">
+
+L'attribut src va prendre comme valeur le nom et l’emplacement de l’image tandis que l'attribut alt va afficher un texte alternatif dans le cas où l’image ne serait pas disponible (pour les non voyants par exemple).
+
 http://www.w3schools.com/tags/ref_html_dtd.asp
 https://www.w3.org/TR/html/
 <!--=================== Generic Attributes ===============================-->
