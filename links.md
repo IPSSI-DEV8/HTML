@@ -12,7 +12,7 @@
 
 #Optimisation
 
-[Mozilla mdn](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Astuces_de_création_de_pages_HTML_à_affichage_rapide)
+[Mozilla MDN](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Astuces_de_création_de_pages_HTML_à_affichage_rapide)
 
 [Performance Web](http://letrainde13h37.fr/18/performance-web-pieges-optimisation-a-posteriori/)
 
